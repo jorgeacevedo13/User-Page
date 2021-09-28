@@ -1,7 +1,7 @@
-![me-img](https://github.com/jorgeacevedo13/User-Page/blob/main/images/me-img.HEIC)
-**Jorge Acevedo**
-*Student at the __University of California San Diego__*
-I am a student at UCSD where I am majoring in Cognitive Science. 
+![me-img](https://www.google.com/search?q=jorge+acevedo+fillmore+ca&sxsrf=AOaemvIFXvMQkxDxnoXRwUh-Srl15ubiqw:1632796362034&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj7q5i50KDzAhXkq5UCHU0iC9IQ_AUoAnoECAEQBA&biw=1447&bih=800&dpr=2#imgrc=ue1qewtP7UQ0nM)
+**Jorge Acevedo** |
+*Student at the __University of California San Diego__* |
+I am a current student at UCSD where I am majoring in Cognitive Science. 
 
 
 **Table of Contents**
@@ -52,7 +52,7 @@ My favorite activities:
 - [x] Get into college
 - [ ] Build my own company
 - [ ] Travel the World
-- [ ] Reach the 1000 lbs club
+- [ ] Reach the 1000 lbs club.
     A powerlifting challenge I've been working towrd for a couple years :)
 
 In the words of the great Muhammad Ali:
