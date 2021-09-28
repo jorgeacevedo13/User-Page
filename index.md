@@ -13,7 +13,7 @@ I am a current student at UCSD where I am majoring in Cognitive Science.
 
 
 ### Education
-**University of California, San Diego**
+[**University of California, San Diego**](https://ucsd.edu/)
 I am currently working on my bachelor's degree at UCSD. My major is Cognitive Science with a specialization in Machine Learning and Neural Computation. Alongside this degree, I am also working on a computer science minor.
 The line of code that showed me the power of programming:
 ```
