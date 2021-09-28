@@ -1,5 +1,5 @@
 **My User Page**
-![me-img](https://github.com/jorgeacevedo13/User-Page/blob/main/images/me-img-2.png)
+![me-img](https://github.com/jorgeacevedo13/User-Page/blob/add-index-and-use-markdown/myImg/me-img-2.png)
 **Jorge Acevedo** |
 *Student at the __University of California San Diego__* |
 I am a current student at UCSD where I am majoring in Cognitive Science. 
