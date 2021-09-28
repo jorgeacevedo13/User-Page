@@ -1,4 +1,4 @@
-![me-img](https://www.google.com/search?q=jorge+acevedo+fillmore+ca&sxsrf=AOaemvIFXvMQkxDxnoXRwUh-Srl15ubiqw:1632796362034&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj7q5i50KDzAhXkq5UCHU0iC9IQ_AUoAnoECAEQBA&biw=1447&bih=800&dpr=2#imgrc=ue1qewtP7UQ0nM)
+![me-img](https://github.com/jorgeacevedo13/User-Page/blob/main/images/me-img-2.png)
 **Jorge Acevedo** |
 *Student at the __University of California San Diego__* |
 I am a current student at UCSD where I am majoring in Cognitive Science. 
